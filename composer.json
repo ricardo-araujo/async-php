@@ -1,0 +1,6 @@
+{
+    "require": {
+        "amphp/socket": "^0.10.5",
+        "amphp/redis": "^0.3.3"
+    }
+}
